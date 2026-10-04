@@ -9,6 +9,8 @@
 
 **🔗 Live Repository:** https://github.com/arif03362290021-cloud/ai-local-problem-solver
 
+**🔗 Live Demo:** https://ai-local-problem-solver-six.vercel.app/
+
 ## 📖 About The Project
 In Pakistan, especially in remote areas, students face lack of quality teachers, expensive academies, language barriers, and no personal guidance. This project is an AI-based local problem solver focused on education that provides 24/7 affordable tutoring in simple Urdu, Roman Urdu, and English.
 
