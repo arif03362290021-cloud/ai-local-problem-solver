@@ -1,0 +1,6 @@
+{
+  "name": "AI Local Problem Solver",
+  "description": "AI-powered civic and local problem resolution platform for Pakistan and Khyber Pakhtunkhwa. Understands English, Urdu, Roman Urdu, and Pashto to provide step-by-step procedures, document checklists, and application drafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
